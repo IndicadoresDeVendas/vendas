@@ -101,7 +101,6 @@ video {
 
 .formLogin input:focus {
     border: 1px solid var(--colorFormLoginInputFocus);
-    background-color: var(--colorBackgroundBoxText);
 }
 
 .formLogin label {
