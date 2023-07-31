@@ -6,6 +6,7 @@ function verificarLogin() {
     var AlanaMilena = "Alana04";
     var AnaBeatriz = "AnaB05";
     var GabrielaRocha = "Gabriela06"; 
+    var MikaellyLivia = "Mikaelly07"
     var CamilleEduarda = "Camille08";
     var AlanaKerolayne = "AlanaK09";
     var HortenciaMaria = "Hortencia10"; 
@@ -58,8 +59,8 @@ function verificarLogin() {
     var WellingtonRibeiro = "Wellington57"; 
     var GabrielleGomes = "Gabrielle58"; 
     var ConceicaoMaria = "Conceicao59"; 
-    var anaKely = "AnaK60";
-
+    var AnaKely = "AnaK60";
+    var ElaineAlves = "Elaine61"
   
     if (inputSenha === AlexsandraMaria) {
       window.location.href = 'https://docs.google.com/spreadsheets/d/15ge_gE5k-W7PwDjJwbLEMYK7hDSIqfDg--kJtOnGck4/edit?usp=sharing';
@@ -177,8 +178,12 @@ function verificarLogin() {
       window.location.href = 'https://docs.google.com/spreadsheets/d/1rApx1Cna5GPZaySbFQLLL8GVAER4Ef8ZhB0ntrNTvSM/edit?usp=sharing';
     } else if (inputSenha === ConceicaoMaria) {
       window.location.href = 'https://docs.google.com/spreadsheets/d/1JHE4yYQWdLciYw7p4Y2sBfSgTmYNNY2tTWQ-pN5Dpag/edit?usp=sharing';
-    } else if (inputSenha === anaKely) {
+    } else if (inputSenha === AnaKely) {
       window.location.href = 'https://docs.google.com/spreadsheets/d/1dgUMckC6siL2CPN1sTGwVvVJ8wZGsXp54u3KERO09-w/edit?usp=sharing';
+    } else if (inputSenha === elaineAlves) {
+      window.location.href = 'https://docs.google.com/spreadsheets/d/1N56Aj5Un4bRaoPhybhWqDFoTY5xIXqESb2Jc-pQ9pi4/edit?usp=sharing';
+    } else if (inputSenha === mikaellyLivia) {
+      window.location.href = 'https://docs.google.com/spreadsheets/d/1ROzIGmy0Vp5uHD4OBBRuo2ZWGQynyDVeuOXQlVXArXQ/edit?usp=sharing';
     }
     
     else {
